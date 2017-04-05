@@ -1,0 +1,16 @@
+
+name: java_install
+version: 0.0.1
+language: java
+description: Install dependencies use `mvn install`
+public: true
+tags:
+  - java
+  - install
+inputs:
+outputs:
+script_path: ./run.sh  
+  
+template: |  
+  
+  
